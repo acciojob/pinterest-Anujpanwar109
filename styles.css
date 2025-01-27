@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+.hero{
+	width:80vw;
+	height:50vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	overflow:hidden;
+	border:1px solid black;
+}
+.div1{
+	width:60%;
+	object-fit:cover;
+	margin-left:4vh;
+}
+.div2{
+	width:40%;
+	object-fit:cover;
+	margin-left:4vh;
+}
+img{
+	width:100%;
+	height:20%
+	object-fit:cover;
+}
+button{
+	padding:5px;
+	background-color:pink;
+	color:white;
+	border-radius:5px;
+}
+button{
+	
+}
